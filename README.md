@@ -31,7 +31,7 @@ Providers' Batch APIs with strict JSON output and programmatic validation (Devan
 
 | Data | Generation | Judge |
 |---|---|---|
-| JLPT/common dictionary entries (8,000 judged) | `gpt-6-luna` and `gemini-3.5-flash-lite`, blind and independent | `gpt-6.1-terra` picks the better or merges (randomized order), confidence score |
+| JLPT/common dictionary entries (23,149 judged) | `gpt-6-luna` and `gemini-3.5-flash-lite`, blind and independent | `gpt-6.1-terra` picks the better or merges (randomized order), confidence score |
 | All other dictionary entries | `gpt-6-luna` only | none (`judged: false`) |
 | Kanji meanings | produced together with the kanji explanations (not published here): `gpt-6.1-terra` + `gemini-3.8-flash` judged by `gpt-6.1-terra` for core kanji, `gpt-6-luna` for rare kanji | see `src` |
 
