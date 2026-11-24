@@ -1,7 +1,7 @@
 # jmdict-nepali: Nepali glosses for JMdict and kanji meanings from KANJIDIC2
 
 Nepali translations for the Japanese-English dictionary **JMdict** (all 219,091 entries) and Nepali meanings for
-10,381 kanji from **KANJIDIC2**, made for the Putali JLPT study app. The data is machine-generated and automatically validated; it may contain errors.
+10,384 kanji from **KANJIDIC2**, made for the Putali JLPT study app. The data is machine-generated and automatically validated; it may contain errors.
 
 | File | Content |
 |---|---|

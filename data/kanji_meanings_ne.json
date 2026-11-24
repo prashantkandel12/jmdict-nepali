@@ -12499,6 +12499,11 @@
 "en": "Many, much, or frequent.",
 "src": "gpt-6.1-terra"
 },
+"大": {
+"ne": "ठूलो वा विशाल।",
+"en": "Big or large.",
+"src": "gpt-6.1-terra"
+},
 "天": {
 "ne": "आकाश, स्वर्ग वा सम्राट्सँग सम्बन्धित कुरा।",
 "en": "Sky, heavens, or relating to the emperor.",
@@ -15172,6 +15177,11 @@
 "触": {
 "ne": "छुनु, सम्पर्कमा आउनु वा स्पर्श महसुस गर्नु।",
 "en": "Touch, make contact with, or feel.",
+"src": "gpt-6.1-terra"
+},
+"訓": {
+"ne": "निर्देशन, सिकाइ वा कान्जीको जापानी पढाइ।",
+"en": "Instruction, lesson, or a Japanese reading of a character.",
 "src": "gpt-6.1-terra"
 },
 "設": {
@@ -42833,6 +42843,11 @@
 "ne": "झूटो आरोप लगाउनु; बदनाम गर्नु।",
 "en": "Slander; falsely accuse someone.",
 "src": "gpt-6-luna"
+},
+"誥": {
+"ne": "कुनै कुरा बताउनु वा निर्देशन दिनु।",
+"en": "To state something or give instructions.",
+"src": "gpt-6.1-terra"
 },
 "誦": {
 "ne": "ठूलो स्वरमा पाठ गर्नु वा मन्त्रोच्चार गर्नु।",
